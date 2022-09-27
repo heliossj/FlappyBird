@@ -53,3 +53,11 @@ body {
     color: greenyellow;
     font-weight: bold;
 }
+
+.refresh {
+    font-size: 1.2em;
+}
+
+.refresh strong{
+    color: yellow;
+}
